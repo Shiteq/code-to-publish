@@ -1,1 +1,1 @@
-# code-to-publish
+# Wolfram mathematical code to generate manuscript results
