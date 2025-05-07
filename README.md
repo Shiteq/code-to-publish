@@ -1,1 +1,1 @@
-# Wolfram mathematical code to generate manuscript results
+# Wolfram mathematical code used to generate manuscript results
